@@ -1,0 +1,22 @@
+#polla {
+    color: red;
+}
+
+
+#recuadro{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 11000px;
+}
+#botones{
+    margin-top: 50px
+}
+#borrar{
+    background-color:red;
+    color:white;
+    margin-top:50px;
+}
+#calcular{
+    background-color: greenyellow;
+    color:white;
+}
